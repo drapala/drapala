@@ -42,8 +42,9 @@ Working on high-volume metadata systems, distributed processing, and agentic LLM
 
 ### 🌟 Featured Projects
 
-- **[Validahub](https://github.com/drapala/validahub)**  
-  CSV-based “beach head” MVP for Brazilian sellers — evolving into the **BI layer of Brazilian marketplaces**.
+- **[Validahub](https://github.com/drapala/validahub-new)**  
+  Validahub is the data quality and intelligence layer for Brazilian marketplaces — starting with CSV validation, evolving into full business intelligence for integrators.
+
 
 - **Search Dashboards (Elsevier)**  
   React + RAG front-end for Solr-based search modernization.
@@ -62,7 +63,7 @@ Working on high-volume metadata systems, distributed processing, and agentic LLM
 
 ### 🤖 Fun Facts
 
-- Building **Validahub** as a long-term fiscal + e-commerce intelligence engine.
+- Building **Validahub** as a long-term compliance as a service + e-commerce intelligence engine.
 - Passionate about **meta-engineering**: using LLMs and agents as collaborators in cognitive workflows.
 
 ---
