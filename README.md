@@ -1,7 +1,7 @@
 <!-- drapala | GitHub Profile README -->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/172964?v=4" width="120" style="border-radius: 50%" alt="drapala avatar" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGK3xEDyeECWw/profile-displayphoto-shrink_800_800/B4DZd039geH4Ac-/0/1750012518057?e=1759363200&v=beta&t=QoLSK8xP6uiUTh9j8fUNN2aSMjnyeYrSAtQrlpLbGU4" width="120" style="border-radius: 50%" alt="drapala avatar" />
 </p>
 
 <h1 align="center">Hey, I'm João Drapala 👋</h1>
