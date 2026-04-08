@@ -1,23 +1,23 @@
 <!-- drapala | GitHub Profile README -->
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGK3xEDyeECWw/profile-displayphoto-shrink_800_800/B4DZd039geH4Ac-/0/1750012518057?e=1759363200&v=beta&t=QoLSK8xP6uiUTh9j8fUNN2aSMjnyeYrSAtQrlpLbGU4" width="120" style="border-radius: 50%" alt="drapala avatar" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGK3xEDyeECWw/profile-displayphoto-shrink_800_800/B4DZd039geH4Ac-/0/1750012518057?e=1759363200&v=beta&t=QoLSK8xP6uiUTh9D8fUNN2aSMjnyeYrSAtQrlpLbGU4" width="120" style="border-radius: 50%" alt="drapala avatar" />
 </p>
 
 <h1 align="center">Hey, I'm João Drapala 👋</h1>
 <h3 align="center">Back End & AI Infrastructure Engineer</h3>
-<p align="center"><em>“Build systems that think — and let them build with you.”</em></p>
+<p align="center"><em>"Build systems that think — and let them build with you."</em></p>
 
 ---
 
-### 🚀 Profession / Current Role
+### 🚀 Current Focus
 
 **Back End & AI Infrastructure Engineer**  
-Working on high-volume metadata systems, distributed processing, and agentic LLM workflows. Focused on **scalable backends, data pipelines, and AI-native infrastructure**.
+Working on agentic LLM workflows, epistemic knowledge systems, and AI-native data infrastructure. Currently building autonomous pipelines that reason, self-challenge, and calibrate confidence over time.
 
 ---
 
-### 🛠️ Top Skills & Technologies
+### 🛠️ Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -29,42 +29,33 @@ Working on high-volume metadata systems, distributed processing, and agentic LLM
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-![LangChain](https://img.shields.io/badge/langchain-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiB2aWV3Qm94PSIwIDAgMjQwIDI0MCIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjI0MCIgaGVpZ2h0PSIyNDAiIHJ4PSI0OCIgZmlsbD0iIzAwMCIvPjwvc3ZnPg==&logoColor=white)
+![Claude](https://img.shields.io/badge/claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/huggingface-f9d423?style=for-the-badge&logo=huggingface&logoColor=black)
+![LanceDB](https://img.shields.io/badge/lancedb-black?style=for-the-badge&logoColor=white)
 
 ![Postgres](https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Trino](https://img.shields.io/badge/trino-1A237E?style=for-the-badge&logo=trino&logoColor=white)
-![Solr](https://img.shields.io/badge/solr-e74c3c?style=for-the-badge&logo=apache&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
 ### 🌟 Featured Projects
 
+- **[metaxon](https://github.com/drapala/metaxon)**  
+  Autonomous epistemic knowledge base built with Claude Code. Ingests papers and articles, runs adversarial challenges (Gate 3), tracks source diversity via Bradford Law, and applies quarantine/promote pipelines to prevent knowledge collapse. Currently running a 30-day calibration benchmark comparing a full epistemic pipeline against a vanilla baseline — measuring ECE, Brier score, and overconfidence gap.
+
+- **Zelox**  
+  Procurement intelligence engine for public contract data. Ingests 3.7M+ contracts, runs risk scoring across signals: ownership overlap networks, sanctions databases, purchase splitting patterns, and contract ceiling flags. Powers audit prioritization and supplier risk profiles.
+
 - **[Validahub](https://github.com/drapala/validahub-new)**  
-  Validahub is the data quality and intelligence layer for Brazilian marketplaces — starting with CSV validation, evolving into full business intelligence for integrators.
-
-
-- **Search Dashboards (Elsevier)**  
-  React + RAG front-end for Solr-based search modernization.
-
-- **Kafka Streams POC**  
-  Avro serialization, Schema Registry, and E2E testing harness for robust streaming.
+  Data quality and intelligence layer for Brazilian marketplaces — CSV validation evolving into full business intelligence for e-commerce integrators.
 
 ---
 
-### 🔗 Connect With Me
+### 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-joaofdrapala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaofdrapala)
 [![GitHub](https://img.shields.io/badge/github-drapala-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drapala)
-
----
-
-### 🤖 Fun Facts
-
-- Building **Validahub** as a long-term compliance as a service + e-commerce intelligence engine.
-- Passionate about **meta-engineering**: using LLMs and agents as collaborators in cognitive workflows.
 
 ---
 
